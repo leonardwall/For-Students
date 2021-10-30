@@ -10,6 +10,14 @@
 
 1. <https://aws.amazon.com/certification/certified-cloud-practitioner/>
 
+### eLearn Security
+
+1. <https://elearnsecurity.com/>
+
+### Blue Team Level 1
+
+1. <https://securityblue.team/why-btl1/>
+
 ## Cyberseek
 
 1. <https://www.cyberseek.org/heatmap.html>
