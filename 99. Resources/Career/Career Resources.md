@@ -2,6 +2,10 @@
 
 ## Certifications
 
+### Security Certification Progression Chart
+
+1. <https://pauljerimy.com/security-certification-roadmap/>
+
 ### Baseline Certifications for DOD
 
 1. <https://public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/>
