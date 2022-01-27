@@ -10,10 +10,10 @@ If you have a certification or advanced degree that’s considered valuable in y
 
 Here are some common symbols that work well as bullets in the Description part of each job:
 
-Stars: ★ ✪ ✯ ✰
-Arrows: ☛ ☚ ☜ ☞ ☟ ⇨ ►◄ ► »
-Traditional Bullets: ■ ♦ ◆ ●
-Ticks:   ✘ ☐   ☒
+- Stars: ★ ✪ ✯ ✰
+- Arrows: ☛ ☚ ☜ ☞ ☟ ⇨ ►◄ ► »
+- Traditional Bullets: ■ ♦ ◆ ●
+- Ticks:   ✘ ☐   ☒
 
 For additional symbol options, visit Wikipedia’s page: <https://en.wikipedia.org/wiki/Miscellaneous_Symbols>.
 
