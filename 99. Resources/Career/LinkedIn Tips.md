@@ -41,19 +41,19 @@ Studies have shown that 93 percent of recruiters will search for your social med
 
 ## Headshot
 
-Studies have shown your LinkedIn profile is 40 percent more likely to get clicked on when you include a profile picture. However, not just any photo will do. When choosing your profile picture, opt for a standard head shot of you that supports your personal brand and portrays you as professional and friendly. Avoid using a group shot, an awkward selfie, or a cropped image where half of your hair is cut out or covered by someone’s arm. To avoid the image looking blurry, select a photo that’s 400 x 400 pixels or larger. If either width or height exceeds 20,000 pixels, your photo will not upload. Click on the following link to learn how to add or change your profile photo: <http://bit.ly/1QHI74t>.
+Studies have shown your LinkedIn profile is 40 percent more likely to get clicked on when you include a profile picture. However, not just any photo will do. When choosing your profile picture, opt for a standard head shot of you that supports your personal brand and portrays you as professional and friendly. Avoid using a group shot, an awkward selfie, or a cropped image where half of your hair is cut out or covered by someone’s arm. To avoid the image looking blurry, select a photo that’s 400 x 400 pixels or larger. If either width or height exceeds 20,000 pixels, your photo will not upload. Click on the following link to learn how to add or change your profile photo: <https://www.linkedin.com/help/linkedin/answer/1615?lang=en>.
 
 ## Background Image
 
-Upload a background photo or branded graphic that helps tell your story. The new recommended size is 1584 wide by 396 high. (4:1 proportion). If your background image appears blurry or pixelated, choose an image with a file size as close to the maximum (8 MB) as possible, as images with larger file sizes typically look better. Photos will also look better than images with logos. Click on the following link to learn how to add or change your background image: <https://www.linkedin.com/help/linkedin/answer/1615?lang=en>.
+Upload a background photo or branded graphic that helps tell your story. The new recommended size is 1584 wide by 396 high. (4:1 proportion). If your background image appears blurry or pixelated, choose an image with a file size as close to the maximum (8 MB) as possible, as images with larger file sizes typically look better. Photos will also look better than images with logos. Click on the following link to learn how to add or change your background image: <https://www.linkedin.com/help/linkedin/answer/49960/adding-or-changing-the-background-photo-on-your-profile?lang=en>.
 
 ## Media Samples
 
-There’s no better way to give employers a better sense of your accomplishments than showing them visual samples of your achievement. You have the ability to provide samples of your work by adding links and uploading presentations, videos, and images to projects you’ve worked on that demonstrate your expertise and skills. Learn how to add, edit, move, and remove work samples to the Summary, Education, and Experience sections on your profile here: <http://bit.ly/1Sehoyq>.
+There’s no better way to give employers a better sense of your accomplishments than showing them visual samples of your achievement. You have the ability to provide samples of your work by adding links and uploading presentations, videos, and images to projects you’ve worked on that demonstrate your expertise and skills. Learn how to add, edit, move, and remove work samples to the Summary, Education, and Experience sections on your profile here: <https://www.linkedin.com/help/linkedin/answer/111587>.
 
 ## Additional Talents
 
-You have the ability to add additional sections to your profile to give employers a more personal, 360-degree view of you as a professional. If you speak multiple languages, volunteer in your spare time, or participate in relevant professional associations, add this information to the appropriate sections of your LinkedIn profile. 
+You have the ability to add additional sections to your profile to give employers a more personal, 360-degree view of you as a professional. If you speak multiple languages, volunteer in your spare time, or participate in relevant professional associations, add this information to the appropriate sections of your LinkedIn profile. For more information, please visit <https://www.linkedin.com/help/linkedin/answer/1284?lang=en>.
 
 ## Recommendations
 
