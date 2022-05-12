@@ -1,4 +1,4 @@
-# Career Resources
+# Resources
 
 ## Certifications
 
@@ -13,6 +13,7 @@
 ### AWS
 
 1. <https://aws.amazon.com/certification/certified-cloud-practitioner/>
+2. https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english
 
 ### eLearn Security
 
@@ -21,6 +22,12 @@
 ### Blue Team Level 1
 
 1. <https://securityblue.team/why-btl1/>
+
+## Splunk
+1. https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
+
+## Linux Professional Institute (LPI)
+1. https://www.lpi.org/our-certifications/summary-of-certifications
 
 ## Cyberseek
 
@@ -53,7 +60,13 @@
 ## Resume
 
 1. <https://cybersecurity.ce.ucf.edu/catalogs/cyber2.pdf>
+2. https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html
 
 ## CISO Mindmap
 
 1. <https://rafeeqrehman.com/2021/07/11/ciso-mindmap-2021-what-do-infosec-professionals-really-do/>
+
+
+## YouTube Channels & Videos
+1. The Cyber Mentor - https://www.youtube.com/c/TheCyberMentor/videos
+2. 
