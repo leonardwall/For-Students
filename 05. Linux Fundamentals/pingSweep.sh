@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Clear file at the beginning of the process
-cd ~/Desktop
 echo "" > liveHost;
 
 # Loop in the range 1 to 255
