@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clear file at the beginning of the process
-echo "" > liveHost;
+echo "" > liveHosts;
 
 # Loop in the range 1 to 255
 for i in {1..255};
@@ -10,3 +10,4 @@ for i in {1..255};
                 ping -c 1 10.71.0.$i | grep "bytes from" >> liveHost;
 done
 echo "Done!"
+cat liveHosts;
