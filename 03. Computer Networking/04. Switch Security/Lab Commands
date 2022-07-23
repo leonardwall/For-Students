@@ -1,0 +1,60 @@
+? = list of commands
+clock set 17:30:00 16 December 20202
+config t
+hostname S1-Floor1
+username admin password p@nd@
+enable password c!sc0
+service password-encryption
+banner motd #Access to this device is for authorized personnel only!#
+
+line console 0
+login local
+exit
+
+exit
+copy running-config startup-config
+
+
+show interfaces fa0/1
+show mac-address-table
+show running-config
+
+no ip domain-lookup
+
+copy running-config tftp
+
+show version
+show flash
+copy flash tftp
+
+
+interface range fastEthernet 0/1-3
+sw mode access
+sw port-security
+sw port-security mac-address sticky
+sw port-security violation shutdown
+sw port-security violation restrict
+sw port-security violation restrict
+
+
+show port-security
+
+ip domain-name CyberPro.local
+
+interface vlan 1
+ip address 10.0.0.150 255.255.255.0
+no shutdown
+
+ip default-gateway 10.0.0.1
+
+line vty 0 15
+login local
+motd-banner
+transport input ssh
+exit
+
+crypto key generate rsa
+ip ssh version 2
+exit
+
+
