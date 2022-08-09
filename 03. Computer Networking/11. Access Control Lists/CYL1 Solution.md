@@ -1,8 +1,9 @@
 # CYL1 Solution
 
 1. Task 1
-   1. Access R2's global configuration and execure the following command:
+   1. Access R2's global configuration and execure the following commands:
       1. `ip access-list standard 1`
+      2. `exit`
 2. Task 2
    1. Access R2's global configuration and execure the following command:
       1. `access-list 1 deny 172.16.2.0 0.0.0.255`
@@ -18,7 +19,7 @@
    2. Access CMD in the PC, from within the **Management** network, and execute the following command:
       1. `ping 172.16.1.1`
 5. Task 5
-   1. Access R1's global configuration and execure the following command:
+   1. Access R1's global configuration and execure the following commands:
       1. `ip access-list standard BLOCK_HOST`
 6. Task 6
    1. Access R1's global configuration and execure the following commands:
@@ -36,7 +37,7 @@
    2. Access CMD in **PC4** in the **Management's** network, and execute the following command:
       1. `ping 192.168.1.2`
 9. Task 9
-   1. Access R2's global configuration and execure the following commands:
+   3. Access R2's global configuration and execure the following commands:
       1. `ip access-list extended 100`
       2. `exit`
 10. Task 10
