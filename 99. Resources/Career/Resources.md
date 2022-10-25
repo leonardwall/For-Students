@@ -57,6 +57,10 @@
 
 1. <https://www.youtube.com/watch?v=Air1c697tjw>
 
+### HACK you way into a job (no experience required) w/ NetworkChuck
+
+1. <https://www.youtube.com/watch?v=e2h_BreIxaQ>
+
 ## Resume
 
 1. <https://cybersecurity.ce.ucf.edu/catalogs/cyber2.pdf>
