@@ -1,0 +1,1 @@
+net use O: \\server1\share
