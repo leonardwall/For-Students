@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "554ce4d6ee54bc78",
+    "type": "split",
+    "children": [
+      {
+        "id": "9854e1af537d6475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e177dc2e2a8d3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99. Resources/Career/Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7442634db618b78a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5668d64b2870371d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34164d3eaeff2d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c82ec5cc05459e8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sheet",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "129f8f5d1701f6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "85eec03f74f37b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e64571561adff8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99. Resources/Career/Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8e177dc2e2a8d3b8",
+  "lastOpenFiles": [
+    "99. Resources/Career/Resources.md",
+    "05. Linux Fundamentals/Linux Notes.md",
+    "05. Linux Fundamentals/05.09. Certification Review/LPI Essentials Review.md",
+    "99. Resources/Training Resources/CTF Challenges.md",
+    "99. Resources/Training Resources/OSINT.md",
+    "99. Resources/Training Resources/Python.md",
+    "99. Resources/Training Resources/RegEx.md",
+    "06. Network Security/05. Practical Cryptography/Untitled.md",
+    "07. Cyber Infrastructure & Technology/Mail Security.md",
+    "07. Cyber Infrastructure & Technology/Honeypots.md"
+  ]
+}
