@@ -17,7 +17,7 @@ for f in $FILES
         do if [[ ! -d $f ]];
                 then md5sum -t $f >> /var/log/wwwHash;
         fi ;
-done
+done;
 
 # The following if/then checks if there is a difference between the files
 # (diff -c -lt 2) checks if there are more than two characters different than
