@@ -25,4 +25,5 @@ tar -czPvf $dest/$archive_file $backup_files
 
 # Print the end status message
 echo "Backup finished"
+now=$(date +"%H:%M:%S")
 echo Script end time:  "$now"
