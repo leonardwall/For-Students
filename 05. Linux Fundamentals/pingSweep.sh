@@ -7,7 +7,7 @@ echo "" > liveHosts;
 for i in {1..255};
         do
                 echo "[+] pinging 10.71.0.$i";
-                ping -c 1 10.71.0.$i | grep "bytes from" >> liveHost;
+                ping -c 1 10.71.0.$i | grep "bytes from" >> liveHosts;
 done
 echo "Done!"
 cat liveHosts;
